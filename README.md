@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Foriweb
+- 👋 Hi, I’m @Fori Varfi
 - 👀 I’m interested in creating games
 - 🌱 I’m currently learning web develop
 - 💞️ I’m looking to collaborate on ...
